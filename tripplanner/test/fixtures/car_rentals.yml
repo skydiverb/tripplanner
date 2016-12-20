@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  location: MyString
+  car_type: MyString
+  rental_days: 1
+  insurance: false
+  mpg: 1
+  user: one
+
+two:
+  name: MyString
+  location: MyString
+  car_type: MyString
+  rental_days: 1
+  insurance: false
+  mpg: 1
+  user: two

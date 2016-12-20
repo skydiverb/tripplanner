@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  airline_name: MyString
+  flight_number: 1
+  price: MyString
+  city_of_origin: MyString
+  destination: MyString
+  origin_departure_date_time: MyString
+  destination_arrival_date_time: MyString
+  flight_back_from_destination_date_time: MyString
+  arrival_at_origin_date_time: MyString
+  user: one
+
+two:
+  airline_name: MyString
+  flight_number: 1
+  price: MyString
+  city_of_origin: MyString
+  destination: MyString
+  origin_departure_date_time: MyString
+  destination_arrival_date_time: MyString
+  flight_back_from_destination_date_time: MyString
+  arrival_at_origin_date_time: MyString
+  user: two
