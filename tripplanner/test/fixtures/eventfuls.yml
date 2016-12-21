@@ -2,14 +2,16 @@
 
 one:
   name: MyString
-  address: MyString
-  rate: 1
-  phone_number: 1
+  location: MyString
+  description: MyString
+  image: MyString
+  url: MyString
   trip: one
 
 two:
   name: MyString
-  address: MyString
-  rate: 1
-  phone_number: 1
+  location: MyString
+  description: MyString
+  image: MyString
+  url: MyString
   trip: two

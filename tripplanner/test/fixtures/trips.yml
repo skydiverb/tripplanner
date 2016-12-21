@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hotels: MyString
+  events: MyString
+  locations: MyString
+  flights: MyString
+  attractions: MyString
+  trip_name: MyString
+  user: 
+
+two:
+  hotels: MyString
+  events: MyString
+  locations: MyString
+  flights: MyString
+  attractions: MyString
+  trip_name: MyString
+  user: 

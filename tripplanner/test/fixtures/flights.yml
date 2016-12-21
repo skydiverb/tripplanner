@@ -3,23 +3,21 @@
 one:
   airline_name: MyString
   flight_number: 1
-  price: MyString
-  city_of_origin: MyString
-  destination: MyString
+  price: 1
   origin_departure_date_time: MyString
   destination_arrival_date_time: MyString
-  flight_back_from_destination_date_time: MyString
-  arrival_at_origin_date_time: MyString
-  user: one
+  departure_destination_date_time: MyString
+  origin_arrival_date_time: MyString
+  seats_left: 1
+  trip: one
 
 two:
   airline_name: MyString
   flight_number: 1
-  price: MyString
-  city_of_origin: MyString
-  destination: MyString
+  price: 1
   origin_departure_date_time: MyString
   destination_arrival_date_time: MyString
-  flight_back_from_destination_date_time: MyString
-  arrival_at_origin_date_time: MyString
-  user: two
+  departure_destination_date_time: MyString
+  origin_arrival_date_time: MyString
+  seats_left: 1
+  trip: two
